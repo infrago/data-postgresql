@@ -3,13 +3,13 @@ module github.com/infrago/data-postgres
 go 1.25.3
 
 require (
-	github.com/infrago/data v0.9.0
-	github.com/infrago/infra v0.9.0
+	github.com/infrago/data v0.10.0
+	github.com/infrago/infra v0.10.0
 	github.com/lib/pq v1.10.9
 )
 
 require (
-	github.com/infrago/base v0.9.0 // indirect
+	github.com/infrago/base v0.10.0 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.2 // indirect
 )
 
