@@ -8,7 +8,6 @@ require (
 	github.com/lib/pq v1.10.9
 )
 
-replace github.com/infrago/data => ../data
 
 require (
 	github.com/infrago/base v0.12.0 // indirect
